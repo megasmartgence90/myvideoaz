@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/arb24.m3u8?bandwidth=2096&e=1728469106&playlistlength=5&shift=0&sid=coder_51&token=1df59088bab4f75901a5c49107bb4ebf&user=37076
+http://149.255.152.199/arb24.m3u8?bandwidth=2096&e=1728477061&playlistlength=5&shift=0&sid=coder_51&token=bbb1f9f1dd568481a7da830c6009e535&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/arb24.m3u8?bandwidth=796&e=1728469106&playlistlength=5&shift=0&sid=coder_51&token=1df59088bab4f75901a5c49107bb4ebf&user=37076
+http://149.255.152.199/arb24.m3u8?bandwidth=796&e=1728477061&playlistlength=5&shift=0&sid=coder_51&token=bbb1f9f1dd568481a7da830c6009e535&user=37076
