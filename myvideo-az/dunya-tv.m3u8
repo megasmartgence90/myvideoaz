@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/dunya.m3u8?bandwidth=2096&e=1728663638&playlistlength=5&shift=0&sid=coder_53&token=679389f2b352e1d755f7c79dc3a0c3ba&user=37076
+http://149.255.152.199/dunya.m3u8?bandwidth=2096&e=1728670940&playlistlength=5&shift=0&sid=coder_53&token=0e100edfe1be6af96de024a0e32bebc5&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/dunya.m3u8?bandwidth=796&e=1728663638&playlistlength=5&shift=0&sid=coder_53&token=679389f2b352e1d755f7c79dc3a0c3ba&user=37076
+http://149.255.152.199/dunya.m3u8?bandwidth=796&e=1728670940&playlistlength=5&shift=0&sid=coder_53&token=0e100edfe1be6af96de024a0e32bebc5&user=37076
