@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=6096000
-http://149.255.152.199/kanals.m3u8?bandwidth=6096&e=1738886916&playlistlength=5&shift=0&sid=coder_57&token=29f9ee937fda461d3d2211b0aff1f276&user=37076
+http://149.255.152.199/kanals.m3u8?bandwidth=6096&e=1738894662&playlistlength=5&shift=0&sid=coder_57&token=f2303f288c85883b85a9de84cf5cfce8&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/kanals.m3u8?bandwidth=2096&e=1738886916&playlistlength=5&shift=0&sid=coder_57&token=29f9ee937fda461d3d2211b0aff1f276&user=37076
+http://149.255.152.199/kanals.m3u8?bandwidth=2096&e=1738894662&playlistlength=5&shift=0&sid=coder_57&token=f2303f288c85883b85a9de84cf5cfce8&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/kanals.m3u8?bandwidth=796&e=1738886916&playlistlength=5&shift=0&sid=coder_57&token=29f9ee937fda461d3d2211b0aff1f276&user=37076
+http://149.255.152.199/kanals.m3u8?bandwidth=796&e=1738894662&playlistlength=5&shift=0&sid=coder_57&token=f2303f288c85883b85a9de84cf5cfce8&user=37076
