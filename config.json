@@ -202,8 +202,6 @@
         ]
     },
     {
-        [
-    {
         "name": "ParsaTV",
         "slug": "parsatv",
         "url": "https://www.parsatv.com/embed.php?name=CHANNEL_NAME",
